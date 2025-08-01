@@ -6,7 +6,7 @@ use CodeIgniter\Model;
 
 class KonsumsiBbmModel extends Model
 {
-    protected $table            = 'konsumsi_bbm';
+    protected $table            = 'konsumsi_bbm1';
     protected $primaryKey       = 'id';
     protected $useAutoIncrement = true;
     protected $returnType       = 'array';
